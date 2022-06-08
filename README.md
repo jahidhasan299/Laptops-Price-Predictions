@@ -11,3 +11,6 @@
 # Result:
 <img width="1421" alt="Screen Shot 2022-06-08 at 6 02 10 PM" src="https://user-images.githubusercontent.com/49092540/172593585-57e964ab-4e12-4edb-a38b-dba53d874b76.png">
 <img width="1421" alt="Screen Shot 2022-06-08 at 6 02 20 PM" src="https://user-images.githubusercontent.com/49092540/172593592-a1f107b9-96d1-4f30-8c37-fd4b1afa18b5.png">
+
+# Deployment link to Heroku:
+https://laptop-prices-predictions.herokuapp.com/
